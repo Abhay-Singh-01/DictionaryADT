@@ -1,7 +1,6 @@
-# Programming Assignment 7
+# Dictionary ADT
 
-Abhay Singh, abrsingh
-2022 CSE101 Spring
+Created By: Abhay Singh
 
 ## Files
 
@@ -23,3 +22,5 @@ Makefile:
 
 README:
     The current file that outlines each file to be used in the final project.
+    
+Note: This project was created in CSE101 Spring 2022 at UCSC
